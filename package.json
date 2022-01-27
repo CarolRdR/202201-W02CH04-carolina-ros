@@ -1,0 +1,12 @@
+{
+  "name": "calculadora-css",
+  "version": "1.0.0",
+  "description": "Calculadora del precurso ISDI Coders 2022 en Madrid, utilizando HTML, JS y CSS",
+  "main": "theScript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
